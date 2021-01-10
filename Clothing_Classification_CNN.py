@@ -161,7 +161,7 @@ drive.mount('/content/drive')
 
 # Change the directory to current working directory
 import os
-os.chdir("/content/drive/My Drive/Youtube_Projects")
+os.chdir("/content/drive/My Drive/ML_Project")
 
 # Save the model with the name clothing_classification_model
 model.save('clothing_classification_model.h5')
