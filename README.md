@@ -1,4 +1,4 @@
-# Clothing_Prediction_flask_Web_App
+# Clothing_Prediction_flask_Web_Application
 
 Developed an Image Recognition Clothing Prediction web app by using Convolutional Neural Networks(CNNs) and Flask.
 Dataset used Fashion MNIST for grayscale images.
